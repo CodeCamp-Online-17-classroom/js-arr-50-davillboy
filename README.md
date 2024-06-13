@@ -10,3 +10,4 @@ const scores = [
 ];
 // expected result: 89
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
